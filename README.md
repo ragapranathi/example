@@ -1,4 +1,2 @@
-# Example repository
-This is a sample repository....
-
-This is a second change
+# Example clone repository
+band aids dont fix bullet holes
